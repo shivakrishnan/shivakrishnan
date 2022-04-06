@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivakrishnan
-- 👀 I’m interested in ...blockchain, python
+- 👀 I’m interested in ...blockchain, Web3, python
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...blockchain
 - 📫 How to reach me ...n.shivakrishna41@gmail.com
