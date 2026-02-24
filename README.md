@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivakrishnan
-- 👀 I’m interested in ...blockchain, Web3, python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...blockchain
+- 👀 I’m interested in ...Blockchain, Quantum Computing
+- 🌱 I’m currently learning ...Quantum Computing
+- 💞️ I’m looking to collaborate on ...Blockchain, Quantum Computing.
 - 📫 How to reach me ...n.shivakrishna41@gmail.com
 
 <!---
